@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/Lforlasse/maven1.svg?branch=master)](https://travis-ci.com/Lforlasse/maven1)
+[![Build Status](https://travis-ci.com/Lforlasse/travisGettingStarted.svg?branch=master)](https://travis-ci.com/Lforlasse/travisGettingStarted)
 
 Ultra simple Java Project meant for a Travis introduction
 
